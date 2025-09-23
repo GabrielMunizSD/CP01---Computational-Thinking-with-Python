@@ -6,16 +6,20 @@ Exercícios
 Peça ao usuário um número inteiro e verifique se ele é positivo, negativo ou zero.
 
 
+
 2. Par ou ímpar
 Receba um número inteiro e verifique se ele é par ou ímpar.
+
 
 
 3. Maioridade
 Solicite a idade de uma pessoa e mostre se ela é maior de idade (≥ 18 anos) ou menor de idade.
 
 
+
 4. Nota de aprovação
 Receba a nota de um aluno (0 a 10) e diga se ele foi aprovado (nota ≥ 6) ou reprovado.
+
 
 
 5. Comparação de dois números
