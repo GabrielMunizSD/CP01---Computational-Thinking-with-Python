@@ -5,6 +5,8 @@ Exercícios
 1. Número positivo ou negativo
 Peça ao usuário um número inteiro e verifique se ele é positivo, negativo ou zero.
 
+Pensamento de resolução: Primeiro  que o usuário insira um número inteiro. Depois verificamos: se ele for maior que zero, é positivo; se for menor que zero, é negativo; e se não for nenhum dos dois, só pode ser zero.
+
 
 
 2. Par ou ímpar
